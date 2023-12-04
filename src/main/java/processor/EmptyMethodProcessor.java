@@ -1,11 +1,7 @@
 package processor;
 
-import java.awt.print.Printable;
-
-import spoon.OutputType;
 import spoon.processing.AbstractProcessor;
 import spoon.reflect.declaration.CtMethod;
-import spoon.support.Level;
 
 /**
  * 空のメソッド用のprocessor.
