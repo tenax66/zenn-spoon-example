@@ -6,6 +6,5 @@ public class MyClass {
 	}
 	
 	public void doNothing() {
-		//do nothing
 	}
 }
